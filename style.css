@@ -1,0 +1,29 @@
+*{
+    width: 0;
+    padding: 0;
+    margin:;
+}
+
+.tabla{
+    width: 400px;
+    padding: 10px;
+    margin: auto;
+    background-color: rgb(211, 208, 21);
+    .td{
+        border: 3px rgb(0, 0, 0) solid;
+        border-collapse: collapse;
+    }
+}
+
+.formulario{
+    width: 200px;
+    padding: 50px;
+    margin: auto;
+    background-color: bisque;
+    border-radius: 10px;
+    border: 3px rgb(82, 82, 80) solid;
+}
+
+input{
+    
+}
